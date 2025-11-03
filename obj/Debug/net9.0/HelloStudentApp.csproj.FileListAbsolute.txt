@@ -1,0 +1,14 @@
+C:\Users\angel\HelloStudentApp\bin\Debug\net9.0\HelloStudentApp.exe
+C:\Users\angel\HelloStudentApp\bin\Debug\net9.0\HelloStudentApp.deps.json
+C:\Users\angel\HelloStudentApp\bin\Debug\net9.0\HelloStudentApp.runtimeconfig.json
+C:\Users\angel\HelloStudentApp\bin\Debug\net9.0\HelloStudentApp.dll
+C:\Users\angel\HelloStudentApp\bin\Debug\net9.0\HelloStudentApp.pdb
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\HelloStudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\HelloStudentApp.AssemblyInfoInputs.cache
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\HelloStudentApp.AssemblyInfo.cs
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\HelloStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\HelloStudentApp.dll
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\refint\HelloStudentApp.dll
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\HelloStudentApp.pdb
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\HelloStudentApp.genruntimeconfig.cache
+C:\Users\angel\HelloStudentApp\obj\Debug\net9.0\ref\HelloStudentApp.dll

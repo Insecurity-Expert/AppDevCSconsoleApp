@@ -41,15 +41,8 @@ Enter your student number (numbers only, e.g., 123456): 02368
 Hello, Angel!
 Student info:
 Name: Angel
-Student Number: 2368
+Student Number: 02368
 ```
-
-Why did `02368` become `2368`? Because `StudentNumber` is an `int`. If you need to preserve leading zeros, either:
-- Decide on a fixed width and print with padding:
-  ```csharp
-  Console.WriteLine(student.StudentNumber.ToString("D5")); // prints 02368
-  ```
-- Or capture the raw string for display and parse to `int` for storage.
 
 ## Project Structure
 - `Program.cs`: Console input/output and basic validation.
